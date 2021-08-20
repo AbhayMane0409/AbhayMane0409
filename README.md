@@ -1,7 +1,7 @@
 - Hi, I’m @Abhay Mane
 - I have learnt Python. 
 - I’m currently learning Java and c. 
-- Currently Exploring some Programming related stuff. 
+- Also Exploring some Programming related stuff. 
 - mail - abhaymane0409@gmail.com 
 
 <!---
